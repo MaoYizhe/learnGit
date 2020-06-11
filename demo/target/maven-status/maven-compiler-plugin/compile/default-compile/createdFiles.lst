@@ -1,0 +1,3 @@
+com\spring\study\HelloServiceAutoConfiguration.class
+com\spring\study\module\HelloServiceImpl.class
+com\spring\study\module\HelloService.class
